@@ -9,3 +9,4 @@ $ docker run -it hadoop-ubuntu-native:2.7.2 /etc/bootstrap.sh -bash
 # sshd not starting in runtime container... no service/centos7?
 
 ```
+Based on the sequenceiq build - https://hub.docker.com/r/sequenceiq/hadoop-docker/
